@@ -5,12 +5,12 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
+  - title: Publications
     permalink: /publications/
-  - title: cv
+  - title: CV
     permalink: /cv/
   - title: PROTON Lab 
-    permalink: /people/
+    permalink: /profiles/
   # - title: divider
   # - title: projects
   #   permalink: /projects/
