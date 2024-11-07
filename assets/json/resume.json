@@ -82,7 +82,7 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Engineering",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Reinforcement Learning",
@@ -92,6 +92,16 @@
         "Localization",
         "Optimization",
         "Computer Networks"
+      ]
+    },
+    {
+      "name": "Personal",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Sports", 
+        "Bodybuilding",
+        "Video Games", 
+        "PC Watercooling"
       ]
     }
   ]
