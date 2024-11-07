@@ -34,24 +34,24 @@
   ],
   "education": [
     {
-      "institution": "Arizona State University, Tempe, AZ, United States",
-      "location": "Tempe, AZ, United States",
+      "institution": "Arizona State University, Tempe, AZ, United States of America",
+      "location": "Tempe, AZ, USA",
       "area": "Computer Engineering",
       "studyType": "PhD",
       "startDate": "2025-01-01",
       "endDate": "2027-12-01 (Expected)"
     },
     {
-      "institution": "University of New Mexico, Albuquerque, NM, United States",
-      "location": "Albuquerque, NM, United States",
+      "institution": "University of New Mexico, Albuquerque, NM, United States of America",
+      "location": "Albuquerque, NM, USA",
       "area": "Computer Engineering",
       "studyType": "M.S.",
       "startDate": "2023-08-01",
       "endDate": "2024-12-01"
     }, 
     {
-      "institution": "University of New Mexico, Albuquerque, NM, United States",
-      "location": "Albuquerque, NM, United States",
+      "institution": "University of New Mexico, Albuquerque, NM, United States of America",
+      "location": "Albuquerque, NM, USA",
       "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2020-01-01",
