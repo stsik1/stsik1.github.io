@@ -9,8 +9,8 @@ children:
     permalink: /publications/
   - title: CV
     permalink: /cv/
-  - title: PROTON Lab 
-    permalink: /profiles/
+  # - title: PROTON Lab 
+  #   permalink: /profiles/
   # - title: divider
   # - title: projects
   #   permalink: /projects/
