@@ -28,7 +28,7 @@ back_to_top: true # set to false to disable the back to top button
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: light # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
@@ -112,7 +112,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Feel free to reach out to me over my personal email stsikteris1@outlook.com or my institutional email stsikter@asu.edu
+  Feel free to contact me over my personal email or institutional email; stsikteris1@outlook.com / stsikter@asu.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
