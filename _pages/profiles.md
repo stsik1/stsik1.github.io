@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /PROTON Lab/
 title: PROTON Lab
 description: PROTON Lab Members - Arizona State University
 nav: true
