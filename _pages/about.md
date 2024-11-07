@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Sean J Tsikteris</p>
-    <p>PhD Student</p>
+    </p>PhD Student</p>
     <p>Arizona State University</p>
 
 news: false # includes a list of news items
