@@ -7,6 +7,10 @@ dropdown: true
 children:
   - title: publications
     permalink: /publications/
+  - title: cv
+    permalink: /cv/
+  - title: PROTON Lab 
+    permalink: /PROTON Lab/
   # - title: divider
   # - title: projects
   #   permalink: /projects/

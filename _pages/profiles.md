@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: PROTON Lab
+description: PROTON Lab Members - Arizona State University
 nav: true
 nav_order: 7
 
@@ -20,7 +20,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image_circular: True # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
