@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /PROTON Lab/
+permalink: /people/
 title: PROTON Lab
 description: PROTON Lab Members - Arizona State University
 nav: true
@@ -16,9 +16,12 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      more_info: >
+    <div style="text-align: center;">
+      Dr. Eirini Eleni Tsiropoulou<br>
+      Academic Advisor<br>
+      Arizona State University
+    </div>
 
   # Aisha
   - align: right
@@ -26,9 +29,12 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      more_info: >
+    <div style="text-align: center;">
+      Sean J Tsikteris<br>
+      PhD Student<br>
+      Arizona State University
+    </div>
 
   # Sadman
   - align: right
@@ -36,9 +42,12 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      more_info: >
+    <div style="text-align: center;">
+      Sean J Tsikteris<br>
+      PhD Student<br>
+      Arizona State University
+    </div>
 
   # Odyssefs
   - align: right
@@ -46,9 +55,12 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      more_info: >
+    <div style="text-align: center;">
+      Sean J Tsikteris<br>
+      PhD Student<br>
+      Arizona State University
+    </div>
   
   # Dipanjan
   - align: right
@@ -56,9 +68,12 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      more_info: >
+    <div style="text-align: center;">
+      Sean J Tsikteris<br>
+      PhD Student<br>
+      Arizona State University
+    </div>
 
   # ME
   - align: left
