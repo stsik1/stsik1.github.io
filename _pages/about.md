@@ -18,6 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Hello! My name is Sean Tsikteris, and I am a PhD student in Computer Engineering attending Arizona State University.
+
+I am currently a Graduate Research Assistant inside of the Performance and Resource OpTimizatiOn in Networks Lab (PROTON) Lab at Arizona State University. I received my bachelor's degree in Computer Engineering from the University of New Mexico in December, 2023, and received my master's degree in Computer Engineering from the University of New Mexico in December, 2024. Currently, I'm working towards my Ph.D in Computer Engineering underneath Dr. Eirini Eleni Tsiropoulou with the School of Electrical, Computer, and Energy Engineering at Arizona State University. Inside of the PROTON Lab, I work alongside Prof. Tsiropoulou and fellow research assistants on a variety of projects, with my main interests being in optimization, autonomous systems, reinforcement learning, game theory, distributed decision-making, multi-robot Simultaneous Localization and Mapping (SLAM) and GPS denial navigation.
+
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
