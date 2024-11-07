@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Sean J Tsikteris</p>
-    </p>PhD Student</p>
-    <p>Arizona State University</p>
+    Sean J Tsikteris<br>
+    PhD Student<br>
+    Arizona State University<br>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
