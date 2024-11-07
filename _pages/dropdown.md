@@ -10,7 +10,7 @@ children:
   - title: cv
     permalink: /cv/
   - title: PROTON Lab 
-    permalink: /PROTON Lab/
+    permalink: /people/
   # - title: divider
   # - title: projects
   #   permalink: /projects/
