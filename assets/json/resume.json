@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Sean Tsikteris",
+    "label": "PhD Student",
+    "image": "",
+    "email": "stsikteris1@outlook.com",
+    "url": "https://stsik1.github.io/",
+    "summary": "A PhD student in Computer Engineering, performing research in RL-agent environments at Arizona State University.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "School of Electrical, Computer and Energy Engineering, Arizona State University",
+      "position": "Research Assistant",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Reinforcement Learning"]
+    },
+    {
+      "name": "U.S Army DEVCOM Army Research Laboratory",
+      "position": "PhD Research Fellow",
+      "startDate": "2024-08-01",
+      "endDate": "2025-02-01",
+      "summary": "Collaborative research with The University of New Mexico, DEVCOM Army Research Laboratory, and National Science Foundation (NSF) in autonomous systems navigation.",
+      "highlights": ["Robotics"]
+    },
+    {
+      "name": "Department of Computer and Electrical Engineering, University of New Mexico",
+      "position": "Research Assistant",
+      "startDate": "2023-12-01",
+      "endDate": "2024-12-31",
+      "summary": "",
+      "highlights": ["Machine Learning"]
+    },
+    {
+      "name": "University of New Mexico School of Engineering - COSMIAC",
+      "position": "Research Engineer",
+      "url": "https://example.com",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "At COSMIAC, a research center part of the University of New Mexico School of Engineering, I was a designated Research Engineer working with external entities and collaborators on various projects with a variety of objectives. In specific, I worked with Positioning, Navigation, and Timing (PNT), Printed Circuit Board Design (PCB), and Field Programmable Gate Arrays (FPGAs).",
+      "highlights": ["Localization"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Arizona State University, Tempe, AZ, United States of America",
+      "location": "Tempe, AZ, USA",
+      "area": "Computer Engineering",
+      "studyType": "PhD (Expected)",
+      "startDate": "2025-01-01",
+      "endDate": "2027-12-01"
+    },
+    {
+      "institution": "University of New Mexico, Albuquerque, NM, United States of America",
+      "location": "Albuquerque, NM, USA",
+      "area": "Computer Engineering",
+      "studyType": "M.S.",
+      "startDate": "2023-08-01",
+      "endDate": "2024-12-01"
+    }, 
+    {
+      "institution": "University of New Mexico, Albuquerque, NM, United States of America",
+      "location": "Albuquerque, NM, USA",
+      "area": "Computer Engineering",
+      "studyType": "B.S.",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-01"
+    }
+
+  ],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Reinforcement Learning",
+        "Machine Learning",
+        "Cybersecurity",
+        "Localization",
+        "Positioning, Navigation, and Timing (PNT)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Engineering",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Reinforcement Learning",
+        "Machine Learning",
+        "Cybersecurity",
+        "Robotics",
+        "Localization",
+        "Optimization",
+        "Computer Networks"
+      ]
+    },
+    {
+      "name": "Personal",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Sports", 
+        "Bodybuilding",
+        "Video Games", 
+        "PC Watercooling"
+      ]
+    }
+  ]
+}
