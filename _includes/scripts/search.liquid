@@ -73,8 +73,8 @@
         {%- endif -%}
       {%- endfor -%}
       {%- for post in site.posts -%}
-        {% comment %}
         {
+          {% comment %}
           {%- assign title = post.title | escape | strip -%}
           id: "post-{{ title | slugify }}",
           {% if post.redirect == blank %}
@@ -95,8 +95,8 @@
               window.location.href = "{{ post.redirect | relative_url }}";
             {% endif %}
           },
+        {% endcomment %}
         },
-      {% endcomment %}
       {%- endfor -%}
       {%- for collection in site.collections -%}
         {%- if collection.label != 'posts' -%}
