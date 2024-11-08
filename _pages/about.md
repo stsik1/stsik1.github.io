@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PROTON Lab PhD student in Computer Engineering at Arizona State University.
+subtitle:
 
 profile:
   align: right
