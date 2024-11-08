@@ -13,12 +13,12 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
-    image_circular: True # crops the image to make it circular
+    image_circular: true  # crops the image to make it circular
     more_info: >
-      more_info: >
-    <div style="text-align: center;">
+      <div style="text-align: center;">
       Sean J Tsikteris<br>
       PhD Student<br>
       Arizona State University
-    </div>
+      </div>
 ---
+
