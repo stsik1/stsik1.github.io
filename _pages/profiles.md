@@ -3,7 +3,7 @@ layout: profiles
 permalink: /profiles/
 title: PROTON Lab
 description: PROTON Lab Members - Arizona State University
-nav: false
+nav: true
 nav_order: 7
 
 profiles:
