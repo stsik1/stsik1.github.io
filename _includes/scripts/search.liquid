@@ -74,6 +74,7 @@
       {%- endfor -%}
       {%- for post in site.posts -%}
         {
+          {% comment %}
           {%- assign title = post.title | escape | strip -%}
           id: "post-{{ title | slugify }}",
           {% if post.redirect == blank %}
@@ -94,6 +95,7 @@
               window.location.href = "{{ post.redirect | relative_url }}";
             {% endif %}
           },
+        {% endcomment %}
         },
       {%- endfor -%}
       {%- for collection in site.collections -%}
